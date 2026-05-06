@@ -1,10 +1,23 @@
 # ExcelSheets
-This repository contains companion files, examples, and practice materials for Introduction to Microsoft Excel and Google Sheets – In Only a Few Pages (First Edition). It is designed to support beginners who want a quick, practical introduction to spreadsheet tools without unnecessary complexity.
+Boost your spreadsheet skills the fast and simple way with our companion resources for Introduction to Microsoft Excel and Google Sheets – In Only a Few Pages (First Edition).
 
-Inside, you’ll find simple, easy-to-follow spreadsheets that demonstrate core concepts such as data entry, basic formulas, formatting, and essential functions. Each file aligns with the book’s streamlined approach—focusing on clarity, efficiency, and real-world usability.
+This GitHub repository is packed with beginner-friendly files, practical examples, and hands-on exercises designed to help you quickly understand the essentials of Excel and Google Sheets—without overwhelming detail.
 
-Whether you are learning independently or using the book as part of a course, this repository provides hands-on resources to reinforce key skills and help you build confidence using both Excel and Google Sheets.
+Each resource follows a clear, streamlined approach, covering:
 
-If you find any printing mistakes or errors, please write to us at info@inonlyafewpages.com
+Data entry and organization
+Basic formulas and functions
+Clean formatting techniques
+Real-world spreadsheet applications
 
-To explore more books and quick, practical guides, visit [https://www.inonlyafewpages.com/](https://www.inonlyafewpages.com/) and discover learning made simple in just a few pages.
+Whether you’re learning on your own or following along with the book, these materials will help you build confidence and apply your skills right away.
+
+🎥 Want step-by-step guidance? Check out our channel on YouTube:
+https://www.youtube.com/@IOFPMayol
+
+🌐 Explore more quick, practical guides:
+https://www.inonlyafewpages.com/
+
+If you spot any errors or have feedback, feel free to reach out at info@inonlyafewpages.com
+
+Learn smarter. Learn faster. Learn in only a few pages.
